@@ -1,4 +1,4 @@
-# Bases
+# Bases - Points: 100
 # 問題文
 What does this `bDNhcm5fdGgzX3IwcDM1` mean? I think it has something to do with bases.
 

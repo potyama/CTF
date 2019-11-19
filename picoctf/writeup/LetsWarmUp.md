@@ -1,4 +1,4 @@
-# Lets Warm Up
+# Lets Warm Up - Points: 50
 # 問題文
 If I told you a word started with 0x70 in hexadecimal, what would it start with in ASCII?
 
